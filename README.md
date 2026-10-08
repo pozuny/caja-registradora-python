@@ -33,8 +33,4 @@ Archivo: `caja_registradora.py`. Conceptos usados: variables, `input`, `print`, 
 - [ ] Usar **funciones** para separar el cálculo del descuento.
 - [ ] Guardar las facturas en un **archivo** (cuando llegues a archivos).
 - [ ] Manejar errores con **excepciones** (si escriben letras en vez de números).
-
-## Fase 7 - Publicar
-1. Subir esta carpeta a GitHub.
-2. Agregar capturas de la consola al README.
-3. Escribir un artículo en Medium: "Mi primer proyecto en Python: una caja registradora".
+      
